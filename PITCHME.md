@@ -81,7 +81,7 @@
 ---
 
 # Experiences of VI programmers
-
+## 2. Data science and ML
 ### Data analysis and Feature Engineering
 
 * Visualizing data containing huge number of columns and rows can be challenging
@@ -96,6 +96,7 @@
 ---
 
 # Experiences of VI programmers
+## 2. Data science and ML
 
 ### Model selection and training
 
@@ -105,6 +106,7 @@
 ---
 
 # Experiences of VI programmers
+## 2. Data science and ML
 
 ### Deployment on cloud
 
