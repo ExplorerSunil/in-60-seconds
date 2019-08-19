@@ -5,7 +5,7 @@
 * Shakul Raj Sonkar
 * Sunil Choudhary
 
---------
+---
 
 # Assistive technologies
 
@@ -14,7 +14,7 @@
 * JAWS and NVDA
 * Screen readers do not differentiate between code and text
 
----------
+---
 
 # Accessibility of Python
 
@@ -27,7 +27,7 @@
     * writing,
     * debugging
 
---------------
+---
 
 # Accessibility of different IDE and editors
 
@@ -37,7 +37,7 @@
 * Jupyter notebook: the input field does not allow for moving from one line of code to the next
 * VS code
 
------------
+---
 
 # What makes an IDE accessible?
 
@@ -46,7 +46,7 @@
 * Easy editing with screen readers 
 * Access to all functionalities of the IDE with a screen reader
 
------------
+---
 
 # What makes an IDE awesome?
 
@@ -55,7 +55,7 @@
 * real time access to critical information (sintax errors for example)
 * non-visual methods to track performance metrics and status in case of long execution times
 
--------
+---
 
 # Experiences of VI programmers
 
@@ -67,7 +67,7 @@
 * Indentation can be challenging since screen readers usually don't read it (e.g. nested loops can be very challenging to learn for basic learners)
 * Used CLI as it is fundamentally accessible
 
--------------
+---
 
 # Experiences of VI programmers
 
@@ -78,7 +78,7 @@
 * ML democratization usually excludes blind developers
 * No accessible platform 
 
-------
+---
 
 # Experiences of VI programmers
 
@@ -100,7 +100,7 @@
 * comparing different curves
 * Understanding the path of different curves
 
--------
+---
 
 # Experiences of VI programmers
 
@@ -108,7 +108,7 @@
 
 * Accessibility of key cloud services (AWS, Azure, Google Cloud)?
 
--------
+---
 
 # conclusion
 
@@ -118,7 +118,7 @@
     * Programmer familiarity with tools
 * if the above orchestra is in sync, then every language can be accessible.
 
-------------
+---
 
 # Further reading
 
