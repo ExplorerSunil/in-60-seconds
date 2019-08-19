@@ -91,7 +91,9 @@
 
 * Summarizing the graph through different statistical parameters
 * Audio graph
-* Can we do better?
+* Can we do better?
+
+---
 
 # Experiences of VI programmers
 
